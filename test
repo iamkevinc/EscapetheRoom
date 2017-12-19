@@ -1,0 +1,7 @@
+def ohbilly():
+  print "Seth is less silly than Kevin."
+ohbilly()
+
+def whymustisuffer():
+  "Kevin, we must escape the room."
+whymustisuffer()
