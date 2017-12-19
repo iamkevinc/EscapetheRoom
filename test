@@ -1,7 +1,1 @@
-def ohbilly():
-  print "Seth is less silly than Kevin."
-ohbilly()
-
-def whymustisuffer():
-  "Kevin, we must escape the room."
-whymustisuffer()
+#Escape the Room Text Game by Sean Lessard, Seth Williams, Kevin Chambers
